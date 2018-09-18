@@ -1,2 +1,4 @@
 # Format-Rupiah-Javascript
-Tutorial Format Rupiah Javascript. https://www.malasngoding.com/membuat-format-rupiah-dengan-javascript/
+Tutorial Format Rupiah Javascript. 
+Berikut ini adalah link tutorial nya : https://www.malasngoding.com/membuat-format-rupiah-dengan-javascript/
+DEMO : https://malasngoding.github.io/format-rupiah-javascript/
